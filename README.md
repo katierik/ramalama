@@ -3,7 +3,7 @@
 # RamaLama
 
 The [RamaLama](https://ramalama.ai) project's goal is to make working with
-AI boring through the use of OCI containers.
+AI boring through the use of OCI containers. EXAMPLE
 
 RamaLama tool facilitates local management and serving of AI Models.
 
